@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(120deg, #e0c3fc, #8ec5fc);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  width: 500px;
+}
+
+
+.error {
+  color: red;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
