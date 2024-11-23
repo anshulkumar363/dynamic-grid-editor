@@ -18,3 +18,13 @@ A dynamic and interactive grid editor built with React, TypeScript, and styled-c
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/dynamic-grid-editor.git
+
+Navigate to the project folder
+cd dynamic-grid-editor
+
+Install the dependencies:
+npm install
+
+Run the Application
+To run the application locally:
+npm start
